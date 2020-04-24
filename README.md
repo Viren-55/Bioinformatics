@@ -1,2 +1,2 @@
 # Bioinformatics
-Calculation of Gene
+Commom gene sequences  between human and chicken
