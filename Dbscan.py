@@ -1,5 +1,4 @@
-##BT3041 - BE15B021
-##Neeraj Kumar Milan
+
 import math
 
 f = open('fullmoon.txt')
