@@ -1,5 +1,4 @@
-##BT3041 - BE15B021
-##Neeraj Kumar Milan
+
 
 ##f = open('fullmoon.txt')
 f = open('outlier.txt')
